@@ -2,7 +2,7 @@
 
 Hello! This is a repo full of utilities for the Roblox group [Pinewood Emergency Team]()
 
-The following content was written by [Clay](https://clay.jhhspace.com) or by Atmois. You can find who wrote each file via a comment at the top.
+The following content was written by [Clay](https://clay.jhhspace.com) or by [Atmois](https://www.ko-fi.com/Atmois). You can find who wrote each file via a comment at the top.
 
 (most) of these files will also have a link to a replit project where you can run them, however if you have the required libraries/software feel free to download them and run them locally.
 <br><br>
