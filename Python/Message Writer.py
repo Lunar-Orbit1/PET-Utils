@@ -1,3 +1,6 @@
+# Atmois
+# https://replit.com/@Atmois/PET-Message-Writer?v=1 (Last Updated: 16/04/23)
+
 import time
 import datetime
 import math
