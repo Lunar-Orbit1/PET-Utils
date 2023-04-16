@@ -9,6 +9,6 @@ Most of these files will also have a link to a replit project where you can run 
 <hr>
 The languages are seperated into folders, with HTML/CSS being in the Javascript folder.
 
-If you have any questions, or file a bug please report it on the issues tab, or DM us directly.
+If you have any questions, or find a bug please report it on the issues tab, or DM us directly.
 
 **THIS IS NOT AN OFFICIAL PINEWOOD PROJECT**
