@@ -1,6 +1,6 @@
-# Pet Utils
+# Pinewood Utils
 
-Hello! This is a repo full of utilities for the Roblox group [Pinewood Emergency Team](https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team)
+Hello! This is a repo full of utilities for the Roblox group Pinewood Builders
 
 The following content was written by [Clay](https://clay.jhhspace.com) or by [Atmois](https://www.ko-fi.com/Atmois). You can find who wrote each file via a comment at the top.
 
